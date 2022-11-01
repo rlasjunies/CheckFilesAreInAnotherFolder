@@ -1,0 +1,15 @@
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\bin\Debug\net7.0\CheckFilesAreInAnotherFolder.exe
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\bin\Debug\net7.0\CheckFilesAreInAnotherFolder.deps.json
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\bin\Debug\net7.0\CheckFilesAreInAnotherFolder.runtimeconfig.json
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\bin\Debug\net7.0\CheckFilesAreInAnotherFolder.dll
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\bin\Debug\net7.0\CheckFilesAreInAnotherFolder.pdb
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\obj\Debug\net7.0\CheckFilesAreInAnotherFolder.csproj.AssemblyReference.cache
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\obj\Debug\net7.0\CheckFilesAreInAnotherFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\obj\Debug\net7.0\CheckFilesAreInAnotherFolder.AssemblyInfoInputs.cache
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\obj\Debug\net7.0\CheckFilesAreInAnotherFolder.AssemblyInfo.cs
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\obj\Debug\net7.0\CheckFilesAreInAnotherFolder.csproj.CoreCompileInputs.cache
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\obj\Debug\net7.0\CheckFilesAreInAnotherFolder.dll
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\obj\Debug\net7.0\refint\CheckFilesAreInAnotherFolder.dll
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\obj\Debug\net7.0\CheckFilesAreInAnotherFolder.pdb
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\obj\Debug\net7.0\CheckFilesAreInAnotherFolder.genruntimeconfig.cache
+C:\Users\rlasj\Documents\GitHub\CheckFilesAreInAnotherFolder\obj\Debug\net7.0\ref\CheckFilesAreInAnotherFolder.dll
